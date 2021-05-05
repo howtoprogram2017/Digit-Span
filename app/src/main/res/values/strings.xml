@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DigitSpan</string>
+    <string name="no_name_alert">You have not entered your name.\nAll your test result will not be recorded.\nAre you sure to take the test without name?</string>
+    <string name="check_name_alert">Check your name:</string>
+    <string name="no_mode_alert">You have to choose at least one mode!</string>
+    <string name="Skip">skip</string>
+</resources>

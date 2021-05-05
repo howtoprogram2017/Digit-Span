@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Digit_Span.iml" filepath="$PROJECT_DIR$/Digit_Span.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Digit_Span.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Digit_Span.app.iml" />
+    </modules>
+  </component>
+</project>
